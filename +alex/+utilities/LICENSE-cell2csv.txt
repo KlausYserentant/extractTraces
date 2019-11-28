@@ -1,0 +1,4 @@
+Copyright (c) 2004, Sylvain Fiedler
+Copyright (c) 2005, Rob Kohr, Rutgers University
+
+UNKNOWN LICENSE

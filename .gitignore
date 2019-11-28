@@ -1,0 +1,9 @@
+.DS_Store
+*~
+test_data/movie01-header.csv
+test_data/movie01-left.csv
+test_data/movie01-left_background.csv
+test_data/movie01-right.csv
+test_data/movie01-right_background.csv
+test_data/movie01.csv
+*.asv
